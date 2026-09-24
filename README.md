@@ -2,8 +2,6 @@
 
 Full-stack product engineer based in India, specializing in building complete web products from 0 to 1. I focus on clean system architecture, resilient backends, and turning raw ideas into live, revenue-generating SaaS platforms and high-traffic web applications.
 
-Currently open to **Full Stack / Product Engineer** roles.
-
 ---
 
 ### Things I've shipped
