@@ -27,8 +27,8 @@ Full-stack product engineer based in India, specializing in building complete we
 
 * 120+ DSA problems solved (LeetCode & GFG)
 * Engineered advanced fuzzy search in Firebase using Algolia search engine
-* 90% Firestore cost reduction via server-side `count()` aggregations, `onSnapshot` real-time listeners, and short-TTL in-memory caching
-* 40+ operational tasks automated, cutting 90% manual workload across 35+ active daily employees
+* 90% Firestore cost reduction.
+* 90+ operational tasks automated, cutting 90% manual workload across 35+ active daily employees
 
 ---
 
