@@ -32,7 +32,7 @@ Full-stack product engineer based in India, specializing in building complete we
 
 ---
 
-📫 [bhavyajain817@gmail.com](mailto:bhavyajain817@gmail.com) &nbsp; 🔗 [linkedin.com/in/your-linkedin-username](https://linkedin.com)
+📫 [bhavyajain817@gmail.com](mailto:bhavyajain817@gmail.com) &nbsp; 🔗 [[linkedin.com/in/your-linkedin-username](https://linkedin.com)](https://www.linkedin.com/in/bhavya-jain-698170201?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
