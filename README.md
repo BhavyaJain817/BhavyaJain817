@@ -6,11 +6,13 @@ Full-stack product engineer based in India, specializing in building complete we
 
 ### Things I've shipped
 
-**[legalrecovery.in](https://legalrecovery.in)** — Automated legal notice drafting and debt recovery SaaS platform helping individuals and businesses resolve unpaid salary, financial dues, and legal disputes. Doing ₹2 Lakhs/month in recurring revenue.
+**[legalrecovery.in](https://legalrecovery.in)** 0- Automated legal notice drafting and debt recovery SaaS platform helping individuals and businesses resolve unpaid salary, financial dues, and legal disputes. Doing ₹2 Lakhs/month in recurring revenue.
 
-**[iprkaro.com](https://iprkaro.com)** — AI-powered trademark search and watch platform featuring phonetic similarity matching, automated brand conflict detection, and instant registrability risk scoring.
+**[iprkaro.com](https://iprkaro.com)** - AI-powered trademark search and watch platform featuring phonetic similarity matching, automated brand conflict detection, and instant registrability risk scoring.
 
-**[amalegalsolutions.com](https://amalegalsolutions.com)** — SEO milestone: scaled from scratch to 1.2 Lakh visitors and 2 Lakh page views in just 3 months, driving ₹25 Lakhs in revenue directly and indirectly.
+**[amalegalsolutions.com](https://amalegalsolutions.com)** - SEO milestone: scaled from scratch to 1.2 Lakh visitors and 2 Lakh page views in just 3 months, driving ₹25 Lakhs in revenue directly and indirectly.
+
+**[willdrafting.in](https://willdrafting.in)** - Online will drafting platform that helps individuals create legally valid wills in minutes. Guided questionnaires capture assets, beneficiaries, and executor details, then generate a customized, ready-to-sign will, with optional lawyer review and support for registration and witnessing.
 
 ---
 
