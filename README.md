@@ -18,10 +18,10 @@ Full-stack product engineer based in India, specializing in building complete we
 
 ### Stack
 
-**Frontend** — Next.js, React.js, JavaScript, HTML5, CSS3, Tailwind CSS  
-**Backend** — Node.js, Express.js, Firebase Cloud Functions, REST APIs, SSR  
-**Database** — Firebase (Firestore), MongoDB  
-**Architecture & Systems** — System Design & Architecture, RBAC, API Design, Authentication, Algolia Search
+**Frontend** - Next.js, React.js, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Backend** - Node.js, Express.js, Firebase Cloud Functions, REST APIs, SSR  
+**Database** - Firebase (Firestore), MongoDB  
+**Architecture & Systems** - System Design & Architecture, RBAC, API Design, Authentication, Algolia Search
 
 ---
 
